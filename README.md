@@ -13,7 +13,7 @@ This project helps beginners understand the fundamentals of Docker and container
 
 ## 🛠 Tools & Technologies Used
 
-- **Windows 10/11**
+- **Windows 11**
 - **WSL2 (Ubuntu Linux)**
 - **Docker Desktop**
 - **Docker**
